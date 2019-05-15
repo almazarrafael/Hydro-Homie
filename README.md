@@ -11,8 +11,8 @@
 
 ## What I learned
 
-1. A little bit of javascript syntax
-2. An introduction to asynchronous programming
-3. Building discord bots
-4. Node JS
-5. Reading and writing files with javascript
+1. JavaScript syntax.
+2. An introduction to asynchronous programming.
+3. Building Discord bots.
+4. Using Node JS.
+5. Reading and writing files with JavaScript.
