@@ -1,4 +1,4 @@
-# Water-Bro-Bot
+# Hydro Homie Discord Bot
 
 ## Function
 
