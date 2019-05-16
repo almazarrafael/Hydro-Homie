@@ -16,3 +16,6 @@
 3. Building Discord bots.
 4. Using Node JS.
 5. Reading and writing files with JavaScript.
+
+## Notes
+I dived into this project thinking it was gonna be easy. I already had the "logic" in my head and could have easily done it had it been in Java and not in JavaScript where asynchronous programming was prevalant. At the end of the day, I had to simplify what my bot would do because of how asynchronous works. I think it forced me to think in a different way. I would definitely want to learn more about it for other Discord bots.
